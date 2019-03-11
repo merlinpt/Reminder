@@ -1,0 +1,13 @@
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\bin\Debug\Reminder.exe.config
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\bin\Debug\Reminder.exe
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\bin\Debug\Reminder.pdb
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\obj\Debug\Reminder.csprojAssemblyReference.cache
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\obj\Debug\Reminder.Form1.resources
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\obj\Debug\Reminder.Form2.resources
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.cache
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\obj\Debug\Reminder.csproj.CoreCompileInputs.cache
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\obj\Debug\Reminder.exe
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\obj\Debug\Reminder.pdb
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\obj\Debug\Reminder.Form3.resources
+C:\Users\Jobinzzz\Desktop\c# project\Reminder\Reminder\obj\Debug\Reminder.Form4.resources
